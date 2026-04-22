@@ -1,7 +1,0 @@
-| Package        | Purpose                   |
-| -------------- | ------------------------- |
-| streamlit      | Web app UI                |
-| pandas         | Tables/dataframes         |
-| requests       | API calls                 |
-| biopython      | Protein analysis          |
-| beautifulsoup4 | Parse Phobius HTML output |
